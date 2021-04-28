@@ -81,7 +81,5 @@ C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\ref\piraña.dll
 C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\piraña.pdb
 C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\piraña.genruntimeconfig.cache
 C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\Razor\Views\Contactenos\Index.cshtml.g.cs
-C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\Razor\Views\Contacto\ContactoConfirmacion.cshtml.g.cs
 C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\Razor\Views\Contacto\Create.cshtml.g.cs
-C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\Razor\Views\Contacto\Edit.cshtml.g.cs
 C:\Users\emax_\Documents\piraña\obj\Debug\net5.0\Razor\Views\Contacto\Index.cshtml.g.cs

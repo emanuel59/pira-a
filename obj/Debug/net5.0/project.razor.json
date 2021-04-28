@@ -15664,16 +15664,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\emax_\\Documents\\piraña\\Views\\Contacto\\Edit.cshtml",
-      "TargetPath": "Views\\Contacto\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\emax_\\Documents\\piraña\\Views\\Contacto\\ContactoConfirmacion.cshtml",
-      "TargetPath": "Views\\Contacto\\ContactoConfirmacion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\emax_\\Documents\\piraña\\Views\\Contacto\\Index.cshtml",
       "TargetPath": "Views\\Contacto\\Index.cshtml",
       "FileKind": "mvc"
